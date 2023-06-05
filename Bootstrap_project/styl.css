@@ -1,18 +1,15 @@
 *{
-    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
 #section {
-
 background-image: url(./img/img/banner.jpeg);
 background-repeat: no repeat;
 background-size: cover;
 height: 100vh;
-padding-top: 12rem;
+padding-top: 10rem;
 color: rgb(147,38,147);
 background-position: center;
 
