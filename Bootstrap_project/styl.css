@@ -22,3 +22,10 @@ margin: auto;
 padding: 0;
 
 }
+
+@media screen and (max-width: 1200px) {
+    #portfolio {
+        width: 70% !important;
+        height: auto !important;
+    }
+}
